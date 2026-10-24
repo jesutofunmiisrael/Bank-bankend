@@ -1,5 +1,5 @@
 const express = require("express")
-const { getIO } = require("../sockect");
+const { getIO } = require("../socket");
 const Transaction = require("../MODEL/transactionmodel");
 const User= require("../MODEL/usermodel");
 
