@@ -1,5 +1,4 @@
 const mongoose = require("mongoose")
-// const { create } = require("./blacklistedtoken")
 
 
 const transactionSchema = new mongoose.Schema(
